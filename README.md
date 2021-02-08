@@ -1,24 +1,33 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, I'm Raj! 👋
 
-<!--
-**rajkumarin/RAJKUMARIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on implementing a quality control system employing Multivariate Data Analysis
+- 🌱 I’m currently pursuing Master of Science in Data Science 
+- 🤔 I’m actively looking for fulltime job opportunities in Data Science, Business Intelligence and Data Analytics
+- 💬 Ask me about applications of Data Science in Manufacturing
+- ⚡ Fun fact: I can strip down your motorcycle and assemble it back together!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+[<img align="left" alt="rajkumarin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rajkumarin | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][Tabelau]
+
+<br />
+
+### Languages and Tools:
+- Python (Pandas, Matplotlib, NumPy, Scikit-learn, BeautifulSoup)
+- R (qqplot, stats, Shiny, timeSeries)
+- MySQL, NoSQL, HLML5, CSS
+- Tableau, Jupyter Notebook, RStudio, Streamlit, Git, AWS, Netligy, Heroku, MS Excel
+
+
+### ✒️ Blogs/Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Fullstack Development bootcamp experience](https://www.linkedin.com/pulse/winter-doing-full-stack-dev-raj-kumar-dhanapal/)
+
+<!-- BLOG-POST-LIST:END -->
+
+
+[linkedin]: https://www.linkedin.com/in/rajkumarin/
+[Tabelau]: https://public.tableau.com/profile/rajkumarin#!/
+
