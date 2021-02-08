@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 - Python (Pandas, Matplotlib, NumPy, Scikit-learn, BeautifulSoup)
 - R (qqplot, stats, Shiny, timeSeries)
 - MySQL, NoSQL, HLML5, CSS
