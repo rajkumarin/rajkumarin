@@ -28,7 +28,7 @@
 <div class='tableauPlaceholder' id='viz1615321605467' style='position: relative'>
     <noscript>
         <a href='#'>
-        <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayWeek20-DataVisualizationANLY-512&#47;Dashboard&#47;1_rss.png' style='border: none' />
+        <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayWeek20-DataVisualizationANLY-512&#47;Dashboard&#47;1_rss.png' style='border: grey' />
         </a>
     </noscript>
     <object class='tableauViz'  style='display:none;'>
@@ -46,8 +46,21 @@
         <param name='display_count' value='yes' />
         <param name='language' value='en' />
     </object>
-</div>                
+</div>   
 
+<!--script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1615321605467');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ if ( divElement.offsetWidth > 800 ) 
+    { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ else if ( divElement.offsetWidth > 500 ) 
+    { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ else 
+    { vizElement.style.width='100%';vizElement.style.height='1377px';}                     
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 <!-- BLOG-POST-LIST:END -->
 
