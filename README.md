@@ -1,10 +1,10 @@
 ### Hi there, I'm Raj! 👋
 
-- 🔭󠀠󠀠󠀠 Currently working on implementing a quality control system employing Multivariate Data Analysis
-- 🌱 Data Science Master of Science in 
-- 🤔 Actively seeking fulltime job opportunities in Data Science, Business Intelligence and Data Analytics
-- 💬 Ask me about applications of Data Science in Manufacturing
-- ⚡ Fun fact: I can strip down your motorcycle and assemble it back together!
+- 🔭󠀠󠀠󠀠   Currently working on implementing a quality control system employing Multivariate Data Analysis
+- 🌱   Data Science Master of Science in 
+- 🤔   Actively seeking fulltime job opportunities in Data Science, Business Intelligence and Data Analytics
+- 💬   Ask me about applications of Data Science in Manufacturing
+- ⚡   Fun fact: I can strip down your motorcycle and assemble it back together!
 
 
 ### 📫  Connect with me:
