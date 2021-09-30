@@ -3,7 +3,7 @@
 - 🔭󠀠󠀠󠀠   Currently working on implementing a quality control system employing Multivariate Data Analysis
 - 🌱   Data Science graduation with Master of Science
 - 🤔   Actively seeking fulltime job opportunities in Data Science, Business Intelligence and Data Analytics
-- 💬   Ask me about applications of Data Science in Industry and Supply Chain
+- 💬   Ask me about applications of Data Science in Industry 4.0 and Supply Chain
 - ⚡   Fun fact: I can strip down your motorcycle and assemble it back together!
 
 
